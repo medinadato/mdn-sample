@@ -1,0 +1,15 @@
+{
+    "packages": {
+    	"name": "medinadato/mdn-sample",
+    	"version": "1.0.0",
+		"dist": {
+	        "url": "https://github.com/medinadato/mdn-sample",
+	        "type": "zip"
+		},
+		"source": {
+            "url": "https://github.com/medinadato/mdn-sample",
+            "type": "git",
+            "reference": ""
+        }
+    }
+}
